@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Trillo/static/css/main.0bb1bb1e.css",
+    "main.js": "/Trillo/static/js/main.e77ac8d2.js",
+    "index.html": "/Trillo/index.html",
+    "main.0bb1bb1e.css.map": "/Trillo/static/css/main.0bb1bb1e.css.map",
+    "main.e77ac8d2.js.map": "/Trillo/static/js/main.e77ac8d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bb1bb1e.css",
+    "static/js/main.e77ac8d2.js"
+  ]
+}
